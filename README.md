@@ -1,4 +1,4 @@
-# Rohan-1st-sem
-Projects and simple code,I did in first semester of my engineering.
-These are very simple projects
-updating these projects recently
+Simple Programs - First Semester Engineering
+
+
+This repository contains a collection of simple programs that I created during my first semester of engineering. These programs were developed as part of my coursework and cover basic concepts in programming
